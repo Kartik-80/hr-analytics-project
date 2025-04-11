@@ -9,10 +9,13 @@ This is an exploratory data analytics project using an HR dataset focused on emp
 - Investigate hiring source effectiveness
 - Discover insights using Excel (pivot tables, charts)
 
+## 📂 Dataset
+
+- [`HRDataset_v14.xlsx`](./data/HRDataset_v14.xlsx) — the raw HR dataset used for analysis.
+
 ## 📁 Files
 
-- `HRDataset_v14.xlsx`: Original dataset
-- `summary.xlsx`: Excel analysis with pivot tables and charts
+- `summary.xlsx`: Excel analysis with pivot tables and charts (to be added)
 - `README.md`: This file!
 
 ## 🛠 Tools Used
@@ -29,4 +32,4 @@ This is an exploratory data analytics project using an HR dataset focused on emp
 
 ## ✍️ Author
 
-[Kartik Pal]
+Kartik Pal – [ORCID Profile](https://orcid.org/0009-0002-4724-331X))
