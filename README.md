@@ -11,7 +11,7 @@ This is an exploratory data analytics project using an HR dataset focused on emp
 
 ## 📂 Dataset
 
-- [`HRDataset_v14.xlsx`](./data/HRDataset_v14.xlsx) — the raw HR dataset used for analysis.
+- [`HRDataset_v14.xlsx`](./data/HRDataset_v14.xlsx) — contains the full HR dataset along with all analysis, pivot tables, and visualizations.
 
 ## 📁 Files
 
